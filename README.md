@@ -1,3 +1,3 @@
-# Deep-Learning-Nanodegree-Projects
+# Deep Learning Nanodegree Foundation
 
 ![](certificate.png)
