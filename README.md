@@ -1,7 +1,7 @@
 # Deep Learning Nanodegree Foundation
 
-![](certificate.png)
-
+[Deep Learning Nanodegree
+Foundation Digital Certificate](https://confirm.udacity.com/VYVYYHQ6).
 
 ## About
 
